@@ -33,4 +33,4 @@ Install the 2d platformer sample Unity project [here](https://www.assetstore.uni
 
 ## API Reference
 
-More information on how to get Api.ai working with Unity can be found [here](https://github.com/api-ai/api-ai-unity)
+Much of this project was not possible without the help of existing documentation. More information and code examples on how to get Api.ai working with Unity can be found [here](https://github.com/api-ai/api-ai-unity)
